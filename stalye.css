@@ -1,0 +1,23 @@
+
+
+a {
+    font-size: 60px;
+
+    
+}
+
+
+a:hover {
+    background-color: red;
+
+}
+
+
+a:focus {
+    background-color: blue;
+
+}
+
+a:active {
+    background-color: orange;
+}
